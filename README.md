@@ -50,6 +50,6 @@ This project is open-source and free to use. 🚀✨
 ```
 
 🎯 Summary
-If you want to make anyuodate or suggestion feel free to open the requests and let's dive and make it more better.:)
+If you want to make any update or suggestion feel free to open the requests and let's dive and make it more better.:)
 
 See you with next Updates & Projects.
