@@ -1,3 +1,4 @@
+![Crypto Tracker](https://github.com/user-attachments/assets/6be456f5-fc9d-4bd8-9ba2-2ad9b6843794)
 🚀 Crypto Price Tracker
 
 This is a Laravel-based cryptocurrency tracking website that allows users to:
